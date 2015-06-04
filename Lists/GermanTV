@@ -15,6 +15,22 @@ http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_900_av-p.m3u8|X-Forwarded-
 http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="RTL2.de" tvg-logo="rtl2.png",RTL 2
 http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="SRTL.de" tvg-logo="superrtl.png",SUPER RTL
+http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
+http://pebbles113-lh.akamaihd.net/i/kika_1@97487/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="nick.png",NICKELODEON
+http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:0,ZDF INFO
+http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8
+#EXTINF:0,ZDF KULTUR
+http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8
+#EXTINF:0,ZDF NEO
+http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8
+
+
+
+
 #EXTINF:-1,DELUXE MUSIC TV
 http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8?bitrate=800
 
@@ -26,17 +42,15 @@ http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8
 #
 #EXTINF:-1, [COLOR red] [B] --Österreich Live TV-- [/B] [/COLOR]
 #
-#EXTINF:-1,ORF Zwei
+#EXTINF:-1,[COLOR red] [B] Austria [/B] - ORF 2 [/COLOR]
 http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF Drei
+#EXTINF:-1,[COLOR red] [B] Austria [/B] - ORF 3[/COLOR]
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF Sport +
+#EXTINF:-1,[COLOR red] [B] Austria [/B] - ORF Sport +[/COLOR]
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,      
 #
-#EXTINF:-1, [COLOR red] [B] --Schweiz Live TV-- [/B] [/COLOR]
-#
-#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1 
+#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",[COLOR red] [B] Swiss [/B] - SRF 1 [/COLOR] 
 http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",SRF 2 
+#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR red] [B] Swiss [/B] - SRF 2 [/COLOR] 
 http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
