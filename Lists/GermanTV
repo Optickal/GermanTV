@@ -2,7 +2,7 @@
 
 #EXTINF:-1, [COLOR yellow] Updated 04/07/15 [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
-#EXTINF:-1, [COLOR green] --German Live Tv-- [/COLOR]
+#EXTINF:-1, [COLOR green] [I][B] --German Live Tv-- [/B][/I] [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
 
 #EXTINF:-1,ARD
