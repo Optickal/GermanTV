@@ -13,7 +13,7 @@ http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/index_900_av-p.m3u8|X-Forwarded-
 http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="Sat1.ch" tvg-logo="sat1.png",SAT 1
 http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id="Pro7.ch" tvg-logo="pro7.png",PRO 7
+#EXTINF:-1 tvg-id="Pro7.ch" tvg-logo="pro7.png",PRO 7 (CH)
 http://pebbles106-lh.akamaihd.net/i/prosieben_1@97456/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="RTL2.de" tvg-logo="rtl2.png",RTL 2
 http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
@@ -42,8 +42,7 @@ http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8
 
 #EXTINF:-1,      
 #
-#EXTINF:-1, [COLOR red] [B] --Österreich Live TV-- [/B] [/COLOR]
-#
+
 #EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 2 [/COLOR]
 http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 3[/COLOR]
