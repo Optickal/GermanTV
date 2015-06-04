@@ -13,6 +13,8 @@ http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/index_900_av-p.m3u8|X-Forwarded-
 http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="Sat1.ch" tvg-logo="sat1.png",SAT 1
 http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Pro7.ch" tvg-logo="pro7.png",PRO 7
+http://pebbles106-lh.akamaihd.net/i/prosieben_1@97456/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="RTL2.de" tvg-logo="rtl2.png",RTL 2
 http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="SRTL.de" tvg-logo="superrtl.png",SUPER RTL
@@ -50,7 +52,7 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,      
 #
-#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",[COLOR red] [B] Swiss [/B] - SRF 1 [/COLOR] 
+#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",[COLOR blue] [B] Swiss [/B] - SRF 1 [/COLOR] 
 http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR red] [B] Swiss [/B] - SRF 2 [/COLOR] 
+#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR blue] [B] Swiss [/B] - SRF 2 [/COLOR] 
 http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
