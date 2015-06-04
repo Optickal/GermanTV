@@ -1,13 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow] Updated 04/07/15 [/COLOR]
+#EXTINF:-1, [COLOR yellow] Updated O4.O7.2O15 [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
-#EXTINF:-1, [COLOR green] [I][B] --German Live Tv-- [/B][/I] [/COLOR]
+#EXTINF:-1, [COLOR red] [B] --Deutsch Live TV-- [/B] [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
 
 #EXTINF:-1,ARD
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF 
 http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="rtl.png",RTL
+http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Sat1.ch" tvg-logo="sat1.png",SAT 1
+http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="RTL2.de" tvg-logo="rtl2.png",RTL 2
+http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1,DELUXE MUSIC TV
 http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8?bitrate=800
+
+#EXTINF:-1, [COLOR red] [B] --Österreich Live TV-- [/B] [/COLOR]
+#EXTINF:-1,ORF Zwei
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1,ORF Drei
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1,ORF Sport +
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1, [COLOR red] [B] --Schweiz Live TV-- [/B] [/COLOR]
+#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1 
+http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",SRF 2 
+http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
