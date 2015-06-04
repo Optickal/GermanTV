@@ -25,7 +25,7 @@ http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8
 #EXTINF:-1,      
 #
 #EXTINF:-1, [COLOR red] [B] --Österreich Live TV-- [/B] [/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7
+#
 #EXTINF:-1,ORF Zwei
 http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,ORF Drei
@@ -35,7 +35,7 @@ http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,      
 #
 #EXTINF:-1, [COLOR red] [B] --Schweiz Live TV-- [/B] [/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNak
+#
 #EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1 
 http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",SRF 2 
