@@ -1,5 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 04/07/15 @ 15:12 [/COLOR]  
-#EXTINF:-1, [COLOR green] --German Live Tv--[/COLOR]
+#EXTINF:-1, [COLOR yellow] Updated 04/07/15 [/COLOR]  
+#EXTINF:-1, [COLOR green] --German Live Tv-- [/COLOR]
 
+#EXTINF:-1,ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" 
+tvg-logo="zdf.png",ZDF  34 http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1,DELUXE MUSIC TV
+http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8?bitrate=800
