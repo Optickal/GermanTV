@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR grey] Updated O4.O7.2O15 [/COLOR]
+#EXTINF:-1, [COLOR black] Updated O4.O7.2O15 [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
 #EXTINF:-1, [COLOR red] [B] --Deutsch Live TV-- [/B] [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
