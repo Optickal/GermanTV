@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR black] Updated O4.O7.2O15 [/COLOR]
+#EXTINF:-1, [COLOR black] Updated O6.O7.2O15 [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
 #EXTINF:-1, [COLOR red] [B] --Deutsch Live TV-- [/B] [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
@@ -23,6 +23,8 @@ http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/index_900_av-p.m3u8|X-Forwa
 http://pebbles113-lh.akamaihd.net/i/kika_1@97487/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="nick.png",NICKELODEON
 http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="disneychannel.png",DISNEY CHANNEL
+http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:0,ZDF INFO
 http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8
 #EXTINF:0,ZDF KULTUR
