@@ -26,9 +26,9 @@ http://62.65.140.151:80/session/15e77bd6-9633-11e5-8657-005056bc49ac/nvnv5a/1/11
 http://62.65.140.212:80/session/1b1a95e8-9633-11e5-a85b-005056bc1a52/nvnv5a/1/1004/index.m3u8?token=252366c382e52d02d40ac3530620be89_1448844594_1448844594&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Disney Channel [/COLOR]
 http://62.65.140.150:80/session/0a39d4b4-9633-11e5-82ed-005056bc49ac/nvnv5a/1/1124/index.m3u8?token=261959ee93f4dcae38c84e6d7fd12643_1448844566_1448844566&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF info [/COLOR]
+#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF info HD [/COLOR]
 http://62.65.140.216:80/session/3772c76a-9633-11e5-ae20-005056bc06d1/nvnv5a/1/1118/index.m3u8?token=2b9beff27857646669358605a1eb08d3_1448844641_1448844641&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF Kultur [/COLOR]
+#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF Kultur HD [/COLOR]
 http://62.65.140.148:80/session/37ece662-9633-11e5-8449-005056bc06d1/nvnv5a/1/1119/index.m3u8?token=1d0f7414409ae5635ffbb65cfb168890_1448844642_1448844642&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - ZDF neo [/COLOR]
 http://62.65.140.150:80/session/1ca402b4-9494-11e5-a0b7-005056bc06d1/nvnv5a/1/1121/index.m3u8?token=2146edb094506b4e2b2d37118d026e15_1448666355_1448666355&p=127|X-Forwarded-For=85.195.192.0
@@ -42,8 +42,8 @@ http://62.65.140.213:80/session/04354e0e-9633-11e5-b1d6-005056bc06d1/nvnv5a/1/11
 http://62.65.140.151:80/session/0abd8afc-9633-11e5-9f2a-005056bc49ac/nvnv5a/1/1018/index.m3u8?token=f09a5e97aeb6c99f956cceca24f534a8_1448844566_1448844566&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Eurospot [/COLOR]
 http://62.65.140.151:80/session/0db4bbc2-9633-11e5-a8d9-005056bc06d1/nvnv5a/1/1051/index.m3u8?token=fc4c2373d15f202deab32780d80d8891_1448844571_1448844571&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - ntv [/COLOR]
-http://62.65.140.212:80/session/1a1bf4d4-9633-11e5-bdc4-005056bc49ac/nvnv5a/1/1025/index.m3u8?token=17baa4d5a1dbeb2fdc916a2dc7f88760_1448844592_1448844592&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - ntv HD [/COLOR]
+http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/76.ts
 #EXTINF:-1,[COLOR red] [B] German [/B] - NDR HD [/COLOR]
 http://62.65.140.153:80/session/1a9f6b48-9633-11e5-b485-005056bc06d1/nvnv5a/1/1115/index.m3u8?token=9b97b12cece6d55f85a2f621270e8ebb_1448844593_1448844593&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - MDR [/COLOR]
@@ -58,6 +58,13 @@ http://62.65.140.217:80/session/285c63ee-9633-11e5-834c-005056bc06d1/nvnv5a/1/10
 http://62.65.140.219:80/session/28e6f324-9633-11e5-b88e-005056bc1a52/nvnv5a/1/1040/index.m3u8?token=eef911b356459fde9bcd0f83f7776593_1448844617_1448844617&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Sport1 [/COLOR]
 http://62.65.140.217:80/session/2962825a-9633-11e5-a722-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=6bde5f3910e816caf1392860ba1130f4_1448844618_1448844618&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - 3sat HD [/COLOR]
+http://62.65.140.218:80/session/fe00cdf6-9632-11e5-bf0c-005056bc1a52/nvnv5a/1/1117/index.m3u8?token=faa5f71a591fade0a51507efe40f78ad_1448844545_1448844545&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - SWR BW HD [/COLOR]
+http://62.65.140.148:80/session/2bdd9920-9633-11e5-95cb-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=523b05c90eb38238065b4ae35da93b3f_1448844622_1448844622&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR green] Sky Germany Bundesliga 5 HD / Alternativ Sky UK Sports 5 HD [/COLOR]
+http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/66.ts
+
 
 
 
@@ -109,5 +116,5 @@ http://62.65.140.154:80/session/14ae9f6a-9633-11e5-ba60-005056bc1a52/nvnv5a/2/11
 http://62.65.140.153:80/session/23c90760-9633-11e5-addc-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=006cb81b68e364d375b5c3b2ec484408_1448844608_1448844608&p=127|X-Forwarded-For=85.195.192.0
 
 
-#EXTINF:-1, [COLOR brown] Updated 29.11.2O15 [/COLOR]
+#EXTINF:-1, [COLOR #660066] Updated 29.11.2O15 [/COLOR]
 http://##
