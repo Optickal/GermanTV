@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR black] Updated O6.O7.2O15 [/COLOR]
-http://##
-#EXTINF:-1, [COLOR red] [B] --Deutsch Live TV-- [/B] [/COLOR]
-http://##
+
 
 #EXTINF:-1,ARD HD
 http://62.65.140.215:80/session/00aab6d4-9633-11e5-9a84-005056bc06d1/nvnv5a/2/1165/index.m3u8?token=5e6ea6b5f5d206f25249755be024c3f5_1448844549_1448844549&p=127|X-Forwarded-For=85.195.192.0
@@ -34,12 +31,14 @@ http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8
 
 
 
-
-#EXTINF:-1,DELUXE MUSIC TV
+#EXTINF:-1,[COLOR orange] [B] Musik [/B] - MTV [/COLOR]
+http://62.65.140.213:80/session/199453b2-9633-11e5-bb1e-005056bc1a52/nvnv5a/1/1033/index.m3u8?token=2f0423c7511aa67290caa87b4a4f05d2_1448844591_1448844591&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR orange] [B] Musik [/B] - VIVA [/COLOR]
+http://62.65.140.154:80/session/358a1eda-9633-11e5-bf7b-005056bc1a52/nvnv5a/1/1014/index.m3u8?token=e2baed8af2cbb5ded3ab554966e88423_1448844638_1448844638&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR orange] [B] Musik [/B] - DELUXE MUSIC TV [/COLOR]
 http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8?bitrate=800
-
-
-
+#EXTINF:-1,[COLOR orange] [B] Musik [/B] - RTL 102.5 [/COLOR]
+http://62.65.140.153:80/session/23c90760-9633-11e5-addc-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=006cb81b68e364d375b5c3b2ec484408_1448844608_1448844608&p=127|X-Forwarded-For=85.195.192.0
 
 
 #EXTINF:-1,      
@@ -49,8 +48,12 @@ http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8
 http://62.65.140.153:80/session/1c1b94e2-9633-11e5-8dea-005056bc49ac/nvnv5a/1/1010/index.m3u8?token=5d5bf2d6a3b7ff710e2d6c6e9a950346_1448844596_1448844596&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 2 HD [/COLOR]
 http://62.65.140.216:80/session/1c9487e4-9633-11e5-81f5-005056bc1a52/nvnv5a/1/1011/index.m3u8?token=bad587bc9998c164bc4cf9049215cb22_1448844596_1448844596&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 3[/COLOR]
-http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - Plus 3 HD[/COLOR]
+http://62.65.140.214:80/session/fd81905e-9632-11e5-b0b8-005056bc06d1/nvnv5a/1/1013/index.m3u8?token=ddde865e94d6b6b0a333f7c30518d3e5_1448844544_1448844544&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - Plus 4 HD[/COLOR]
+http://62.65.140.154:80/session/fe7f76c4-9632-11e5-b063-005056bc1a52/nvnv5a/1/1031/index.m3u8?token=977ad7122b741c9f6689ec3f6ad04433_1448844546_1448844546&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - Plus 5[/COLOR]
+http://62.65.140.213:80/session/ff04bcee-9632-11e5-aa1e-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=58c603766af99d31e503153909a43578_1448844547_1448844547&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF Sport +[/COLOR]
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,      
@@ -61,3 +64,7 @@ http://62.65.140.155:80/session/29e7cf32-9633-11e5-b97d-005056bc1a52/nvnv5a/1/10
 http://62.65.140.151:80/session/2a685a9e-9633-11e5-b9bd-005056bc1a52/nvnv5a/1/1009/index.m3u8?token=c02a2cbdda119b2f3788f0f7aa4eec57_1448844619_1448844619&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR blue] [B] Swiss [/B] - SRF info [/COLOR]
 http://62.65.140.214:80/session/2ae3e1b4-9633-11e5-be20-005056bc1a52/nvnv5a/1/1003/index.m3u8?token=be8847922336b6e65b2e2b254390c432_1448844620_1448844620&p=127|X-Forwarded-For=85.195.192.0
+
+
+#EXTINF:-1, [COLOR black] Updated 29.11.2O15 [/COLOR]
+http://##
