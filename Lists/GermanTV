@@ -106,7 +106,7 @@ http://62.65.140.154:80/session/1e970c7e-9633-11e5-9683-005056bc49ac/nvnv5a/2/10
 
 #EXTINF:-1,[COLOR orange] [B] Musik [/B] - MTV [/COLOR]
 http://62.65.140.213:80/session/199453b2-9633-11e5-bb1e-005056bc1a52/nvnv5a/1/1033/index.m3u8?token=2f0423c7511aa67290caa87b4a4f05d2_1448844591_1448844591&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR orange] [B] Musik [/B] - VIVA [/COLOR]
+#EXTINF:-1,[COLOR orange] [B] Musik [/B] - VIVA HD [/COLOR]
 http://62.65.140.154:80/session/358a1eda-9633-11e5-bf7b-005056bc1a52/nvnv5a/1/1014/index.m3u8?token=e2baed8af2cbb5ded3ab554966e88423_1448844638_1448844638&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR orange] [B] Musik [/B] - DELUXE MUSIC TV [/COLOR]
 http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8?bitrate=800
@@ -116,5 +116,5 @@ http://62.65.140.154:80/session/14ae9f6a-9633-11e5-ba60-005056bc1a52/nvnv5a/2/11
 http://62.65.140.153:80/session/23c90760-9633-11e5-addc-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=006cb81b68e364d375b5c3b2ec484408_1448844608_1448844608&p=127|X-Forwarded-For=85.195.192.0
 
 
-#EXTINF:-1, [COLOR #660066] Updated 29.11.2O15 [/COLOR]
+#EXTINF:-1, [COLOR grey] Updated 29.11.2O15 [/COLOR]
 http://##
