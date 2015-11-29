@@ -10,17 +10,21 @@ http://62.65.140.148:80/session/386ae36e-9633-11e5-b56d-005056bc06d1/nvnv5a/2/11
 http://62.65.140.152:80/session/245b3e32-9633-11e5-9a40-005056bc06d1/nvnv5a/1/1020/index.m3u8?token=f1fdbb120b374f690eca9fe9d3bbb38d_1448844609_1448844609&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Sat 1 HD [/COLOR]
 http://62.65.140.150:80/session/27df3b4e-9633-11e5-b06f-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=01354d7e79bd433c826d84cf1028932a_1448844615_1448844615&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Pro 7 HD [/COLOR]
+#EXTINF:-1,[COLOR red] [B] German [/B] - Pro7 HD [/COLOR]
 http://62.65.140.152:80/session/1d8ef3fa-9633-11e5-88e7-005056bc06d1/nvnv5a/1/1037/index.m3u8?token=797aba52f3b14809dc49f73698a8948a_1448844598_1448844598&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - VOX HD [/COLOR]
+http://62.65.140.153:80/session/360b5112-9633-11e5-bbfc-005056bc1a52/nvnv5a/1/1021/index.m3u8?token=052ce9a8e433145ce1f9e3805c4e3860_1448844639_1448844639&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - RTL II HD [/COLOR]
 http://62.65.140.150:80/session/2342a3aa-9633-11e5-9933-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=1aed0fb1111d8890560e65b73611e9e1_1448844607_1448844607&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Super Rtl HD [/COLOR]
+#EXTINF:-1,[COLOR red] [B] German [/B] - Kabel eins HD [/COLOR]
+http://62.65.140.216:80/session/154375d6-9633-11e5-b977-005056bc06d1/nvnv5a/1/1039/index.m3u8?token=db5ebfbce3e5567c25ce9a689adf9cbe_1448844584_1448844584&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Super RTL HD [/COLOR]
 http://62.65.140.215:80/session/26e9df32-9633-11e5-988f-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=fd5294f754b2f7e1dfd6c4132fe98f07_1448844614_1448844614&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Kika HD [/COLOR]
 http://62.65.140.151:80/session/15e77bd6-9633-11e5-8657-005056bc49ac/nvnv5a/1/1116/index.m3u8?token=53f99b482695bd8b6c005006e85f5672_1448844585_1448844585&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Nickelodeon HD [/COLOR]
 http://62.65.140.212:80/session/1b1a95e8-9633-11e5-a85b-005056bc1a52/nvnv5a/1/1004/index.m3u8?token=252366c382e52d02d40ac3530620be89_1448844594_1448844594&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Disney Channel HD [/COLOR]
+#EXTINF:-1,[COLOR red] [B] German [/B] - Disney Channel [/COLOR]
 http://62.65.140.150:80/session/0a39d4b4-9633-11e5-82ed-005056bc49ac/nvnv5a/1/1124/index.m3u8?token=261959ee93f4dcae38c84e6d7fd12643_1448844566_1448844566&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - ZDF info [/COLOR]
 http://62.65.140.216:80/session/3772c76a-9633-11e5-ae20-005056bc06d1/nvnv5a/1/1118/index.m3u8?token=2b9beff27857646669358605a1eb08d3_1448844641_1448844641&p=127|X-Forwarded-For=85.195.192.0
@@ -28,8 +32,32 @@ http://62.65.140.216:80/session/3772c76a-9633-11e5-ae20-005056bc06d1/nvnv5a/1/11
 http://62.65.140.148:80/session/37ece662-9633-11e5-8449-005056bc06d1/nvnv5a/1/1119/index.m3u8?token=1d0f7414409ae5635ffbb65cfb168890_1448844642_1448844642&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - ZDF neo [/COLOR]
 http://62.65.140.150:80/session/1ca402b4-9494-11e5-a0b7-005056bc06d1/nvnv5a/1/1121/index.m3u8?token=2146edb094506b4e2b2d37118d026e15_1448666355_1448666355&p=127|X-Forwarded-For=85.195.192.0
-
-
+#EXTINF:-1,[COLOR red] [B] German [/B] - Pro7 Maxx [/COLOR]
+http://62.65.140.212:80/session/1e0995e2-9633-11e5-b455-005056bc06d1/nvnv5a/1/1041/index.m3u8?token=3c4990080482c7836b500761a7473212_1448844599_1448844599&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Arte HD [/COLOR]
+http://62.65.140.218:80/session/01b35c66-9633-11e5-8f35-005056bc49ac/nvnv5a/1/1150/index.m3u8?token=2ece216f4ca1d85b95d0ecdbad54d9a9_1448844551_1448844551&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - BR HD [/COLOR]
+http://62.65.140.213:80/session/04354e0e-9633-11e5-b1d6-005056bc06d1/nvnv5a/1/1112/index.m3u8?token=14f569578b4ed93d675d8c6eb9cf37c7_1448844555_1448844555&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Dmax [/COLOR]
+http://62.65.140.151:80/session/0abd8afc-9633-11e5-9f2a-005056bc49ac/nvnv5a/1/1018/index.m3u8?token=f09a5e97aeb6c99f956cceca24f534a8_1448844566_1448844566&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Eurospot [/COLOR]
+http://62.65.140.151:80/session/0db4bbc2-9633-11e5-a8d9-005056bc06d1/nvnv5a/1/1051/index.m3u8?token=fc4c2373d15f202deab32780d80d8891_1448844571_1448844571&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - ntv [/COLOR]
+http://62.65.140.212:80/session/1a1bf4d4-9633-11e5-bdc4-005056bc49ac/nvnv5a/1/1025/index.m3u8?token=17baa4d5a1dbeb2fdc916a2dc7f88760_1448844592_1448844592&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - NDR HD [/COLOR]
+http://62.65.140.153:80/session/1a9f6b48-9633-11e5-b485-005056bc06d1/nvnv5a/1/1115/index.m3u8?token=9b97b12cece6d55f85a2f621270e8ebb_1448844593_1448844593&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - MDR [/COLOR]
+http://62.65.140.213:80/session/189ae778-9633-11e5-8954-005056bc06d1/nvnv5a/1/1069/index.m3u8?token=1b2b9696217d4f06a74622b2f9fb50ce_1448844590_1448844590&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Phoenix HD [/COLOR]
+http://62.65.140.217:80/session/1d153b28-9633-11e5-896c-005056bc49ac/nvnv5a/1/1122/index.m3u8?token=3171409101550a637281cd8b1cee484b_1448844597_1448844597&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - RTL Nitro HD [/COLOR]
+http://62.65.140.152:80/session/24f0105c-9633-11e5-b86e-005056bc49ac/nvnv5a/1/1027/index.m3u8?token=05ac36fa856bc5b16267857763bff3f4_1448844610_1448844610&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - ServusTV HD [/COLOR]
+http://62.65.140.217:80/session/285c63ee-9633-11e5-834c-005056bc06d1/nvnv5a/1/1012/index.m3u8?token=279c4ade3fd00036b975531529dbac3e_1448844616_1448844616&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Sixx HD [/COLOR]
+http://62.65.140.219:80/session/28e6f324-9633-11e5-b88e-005056bc1a52/nvnv5a/1/1040/index.m3u8?token=eef911b356459fde9bcd0f83f7776593_1448844617_1448844617&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Sport1 [/COLOR]
+http://62.65.140.217:80/session/2962825a-9633-11e5-a722-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=6bde5f3910e816caf1392860ba1130f4_1448844618_1448844618&p=127|X-Forwarded-For=85.195.192.0
 
 
 
@@ -43,7 +71,7 @@ http://62.65.140.216:80/session/1c9487e4-9633-11e5-81f5-005056bc1a52/nvnv5a/1/10
 http://62.65.140.214:80/session/fd81905e-9632-11e5-b0b8-005056bc06d1/nvnv5a/1/1013/index.m3u8?token=ddde865e94d6b6b0a333f7c30518d3e5_1448844544_1448844544&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR yellow] [B] Austria [/B] - Plus 4 HD[/COLOR]
 http://62.65.140.154:80/session/fe7f76c4-9632-11e5-b063-005056bc1a52/nvnv5a/1/1031/index.m3u8?token=977ad7122b741c9f6689ec3f6ad04433_1448844546_1448844546&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - Plus 5[/COLOR]
+#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - Plus 5 HD[/COLOR]
 http://62.65.140.213:80/session/ff04bcee-9632-11e5-aa1e-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=58c603766af99d31e503153909a43578_1448844547_1448844547&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF Sport +[/COLOR]
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
@@ -61,6 +89,8 @@ http://62.65.140.155:80/session/29e7cf32-9633-11e5-b97d-005056bc1a52/nvnv5a/1/10
 http://62.65.140.151:80/session/2a685a9e-9633-11e5-b9bd-005056bc1a52/nvnv5a/1/1009/index.m3u8?token=c02a2cbdda119b2f3788f0f7aa4eec57_1448844619_1448844619&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR blue] [B] Swiss [/B] - SRF info [/COLOR]
 http://62.65.140.214:80/session/2ae3e1b4-9633-11e5-be20-005056bc1a52/nvnv5a/1/1003/index.m3u8?token=be8847922336b6e65b2e2b254390c432_1448844620_1448844620&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR blue] [B] Swiss [/B] - S1 HD [/COLOR]
+http://62.65.140.214:80/session/276c74ba-9633-11e5-bf2f-005056bc06d1/nvnv5a/1/1035/index.m3u8?token=6fc0e6912082bff883bee1eab6f68205_1448844615_1448844615&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR blue] [B] Swiss [/B] - Plus 8 HD [/COLOR]
 http://62.65.140.154:80/session/1e970c7e-9633-11e5-9683-005056bc49ac/nvnv5a/2/1053/index.m3u8?token=9f3b7ad1eff4a7ca45e38dd0b7c55edf_1448844600_1448844600&p=127|X-Forwarded-For=85.195.192.0
 
@@ -73,6 +103,8 @@ http://62.65.140.213:80/session/199453b2-9633-11e5-bb1e-005056bc1a52/nvnv5a/1/10
 http://62.65.140.154:80/session/358a1eda-9633-11e5-bf7b-005056bc1a52/nvnv5a/1/1014/index.m3u8?token=e2baed8af2cbb5ded3ab554966e88423_1448844638_1448844638&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR orange] [B] Musik [/B] - DELUXE MUSIC TV [/COLOR]
 http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,[COLOR orange] [B] Musik [/B] - Joiz [/COLOR]
+http://62.65.140.154:80/session/14ae9f6a-9633-11e5-ba60-005056bc1a52/nvnv5a/2/1172/index.m3u8?token=6965eb9e60c4e19c2856bde730be0c50_1448844583_1448844583&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR orange] [B] Musik [/B] - RTL 102.5 [/COLOR]
 http://62.65.140.153:80/session/23c90760-9633-11e5-addc-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=006cb81b68e364d375b5c3b2ec484408_1448844608_1448844608&p=127|X-Forwarded-For=85.195.192.0
 
