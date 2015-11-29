@@ -14,20 +14,20 @@ http://62.65.140.150:80/session/27df3b4e-9633-11e5-b06f-005056bc06d1/nvnv5a/1/10
 http://62.65.140.152:80/session/1d8ef3fa-9633-11e5-88e7-005056bc06d1/nvnv5a/1/1037/index.m3u8?token=797aba52f3b14809dc49f73698a8948a_1448844598_1448844598&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - RTL II HD [/COLOR]
 http://62.65.140.150:80/session/2342a3aa-9633-11e5-9933-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=1aed0fb1111d8890560e65b73611e9e1_1448844607_1448844607&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="SRTL.de" tvg-logo="superrtl.png",SUPER RTL
-http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
-http://pebbles113-lh.akamaihd.net/i/kika_1@97487/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="nick.png",NICKELODEON
-http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="disneychannel.png",DISNEY CHANNEL
-http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:0,ZDF INFO
-http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8
-#EXTINF:0,ZDF KULTUR
-http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8
-#EXTINF:0,ZDF NEO
-http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8
+#EXTINF:-1,[COLOR red] [B] German [/B] - Super Rtl HD [/COLOR]
+http://62.65.140.215:80/session/26e9df32-9633-11e5-988f-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=fd5294f754b2f7e1dfd6c4132fe98f07_1448844614_1448844614&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Kika HD [/COLOR]
+http://62.65.140.151:80/session/15e77bd6-9633-11e5-8657-005056bc49ac/nvnv5a/1/1116/index.m3u8?token=53f99b482695bd8b6c005006e85f5672_1448844585_1448844585&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Nickelodeon HD [/COLOR]
+http://62.65.140.212:80/session/1b1a95e8-9633-11e5-a85b-005056bc1a52/nvnv5a/1/1004/index.m3u8?token=252366c382e52d02d40ac3530620be89_1448844594_1448844594&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - Disney Channel HD [/COLOR]
+http://62.65.140.150:80/session/0a39d4b4-9633-11e5-82ed-005056bc49ac/nvnv5a/1/1124/index.m3u8?token=261959ee93f4dcae38c84e6d7fd12643_1448844566_1448844566&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF info [/COLOR]
+http://62.65.140.216:80/session/3772c76a-9633-11e5-ae20-005056bc06d1/nvnv5a/1/1118/index.m3u8?token=2b9beff27857646669358605a1eb08d3_1448844641_1448844641&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF Kultur [/COLOR]
+http://62.65.140.148:80/session/37ece662-9633-11e5-8449-005056bc06d1/nvnv5a/1/1119/index.m3u8?token=1d0f7414409ae5635ffbb65cfb168890_1448844642_1448844642&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF neo [/COLOR]
+http://62.65.140.150:80/session/1ca402b4-9494-11e5-a0b7-005056bc06d1/nvnv5a/1/1121/index.m3u8?token=2146edb094506b4e2b2d37118d026e15_1448666355_1448666355&p=127|X-Forwarded-For=85.195.192.0
 
 
 
@@ -77,5 +77,5 @@ http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8
 http://62.65.140.153:80/session/23c90760-9633-11e5-addc-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=006cb81b68e364d375b5c3b2ec484408_1448844608_1448844608&p=127|X-Forwarded-For=85.195.192.0
 
 
-#EXTINF:-1, [COLOR pink] Updated 29.11.2O15 [/COLOR]
+#EXTINF:-1, [COLOR brown] Updated 29.11.2O15 [/COLOR]
 http://##
