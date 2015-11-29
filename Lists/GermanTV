@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1, [COLOR black] Updated O6.O7.2O15 [/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
+http://##
 #EXTINF:-1, [COLOR red] [B] --Deutsch Live TV-- [/B] [/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=a9Cj7eNa7k
+http://##
 
-#EXTINF:-1,ARD
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1,ARD HD
+http://62.65.140.215:80/session/00aab6d4-9633-11e5-9a84-005056bc06d1/nvnv5a/2/1165/index.m3u8?token=5e6ea6b5f5d206f25249755be024c3f5_1448844549_1448844549&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF 
 http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="rtl.png",RTL
-http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="rtl.png",RTL HD
+http://62.65.140.152:80/session/245b3e32-9633-11e5-9a40-005056bc06d1/nvnv5a/1/1020/index.m3u8?token=f1fdbb120b374f690eca9fe9d3bbb38d_1448844609_1448844609&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="Sat1.ch" tvg-logo="sat1.png",SAT 1
 http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="Pro7.ch" tvg-logo="pro7.png",PRO 7 (CH)
-http://pebbles106-lh.akamaihd.net/i/prosieben_1@97456/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id="RTL2.de" tvg-logo="rtl2.png",RTL 2
-http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+http://62.65.140.152:80/session/1d8ef3fa-9633-11e5-88e7-005056bc06d1/nvnv5a/1/1037/index.m3u8?token=797aba52f3b14809dc49f73698a8948a_1448844598_1448844598&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTL2.de" tvg-logo="rtl2.png",RTL 2 HD
+http://62.65.140.150:80/session/2342a3aa-9633-11e5-9933-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=1aed0fb1111d8890560e65b73611e9e1_1448844607_1448844607&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="SRTL.de" tvg-logo="superrtl.png",SUPER RTL
 http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
@@ -45,15 +45,19 @@ http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8
 #EXTINF:-1,      
 #
 
-#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 2 [/COLOR]
-http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 1 HD [/COLOR]
+http://62.65.140.153:80/session/1c1b94e2-9633-11e5-8dea-005056bc49ac/nvnv5a/1/1010/index.m3u8?token=5d5bf2d6a3b7ff710e2d6c6e9a950346_1448844596_1448844596&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 2 HD [/COLOR]
+http://62.65.140.216:80/session/1c9487e4-9633-11e5-81f5-005056bc1a52/nvnv5a/1/1011/index.m3u8?token=bad587bc9998c164bc4cf9049215cb22_1448844596_1448844596&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 3[/COLOR]
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF Sport +[/COLOR]
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,      
 #
-#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",[COLOR blue] [B] Swiss [/B] - SRF 1 [/COLOR] 
-http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR blue] [B] Swiss [/B] - SRF 2 [/COLOR] 
-http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",[COLOR blue] [B] Swiss [/B] - SRF 1 HD [/COLOR] 
+http://62.65.140.155:80/session/29e7cf32-9633-11e5-b97d-005056bc1a52/nvnv5a/1/1008/index.m3u8?token=ed20a6c733fab8323731de9f729d45f8_1448844619_1448844619&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR blue] [B] Swiss [/B] - SRF 2 HD [/COLOR] 
+http://62.65.140.151:80/session/2a685a9e-9633-11e5-b9bd-005056bc1a52/nvnv5a/1/1009/index.m3u8?token=c02a2cbdda119b2f3788f0f7aa4eec57_1448844619_1448844619&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR blue] [B] Swiss [/B] - SRF info [/COLOR]
+http://62.65.140.214:80/session/2ae3e1b4-9633-11e5-be20-005056bc1a52/nvnv5a/1/1003/index.m3u8?token=be8847922336b6e65b2e2b254390c432_1448844620_1448844620&p=127|X-Forwarded-For=85.195.192.0
