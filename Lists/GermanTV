@@ -118,3 +118,11 @@ http://62.65.140.153:80/session/23c90760-9633-11e5-addc-005056bc1a52/nvnv5a/2/30
 
 #EXTINF:-1, [COLOR grey] Updated 29.11.2O15 [/COLOR]
 http://##
+
+
+
+
+#EXTINF:-1, [COLOR pink] sunshine live [/COLOR]
+http://stream.hoerradar.de/sunshinelive-mp3-128
+#EXTINF:-1, [COLOR pink] biFM 89.5 [/COLOR]
+http://srv05.bigstreams.de/bigfm-mp3-96
