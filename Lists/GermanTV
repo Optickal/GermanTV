@@ -63,7 +63,7 @@ http://62.65.140.217:80/session/2962825a-9633-11e5-a722-005056bc06d1/nvnv5a/1/10
 http://62.65.140.218:80/session/fe00cdf6-9632-11e5-bf0c-005056bc1a52/nvnv5a/1/1117/index.m3u8?token=faa5f71a591fade0a51507efe40f78ad_1448844545_1448844545&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - SWR BW HD [/COLOR]
 http://62.65.140.148:80/session/2bdd9920-9633-11e5-95cb-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=523b05c90eb38238065b4ae35da93b3f_1448844622_1448844622&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR green] Sky Germany Bundesliga 5 HD / Alternativ Sky UK Sports 5 HD [/COLOR]
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="test.png,[COLOR green] Sky Germany Bundesliga 5 HD / Alternativ Sky UK Sports 5 HD [/COLOR]
 http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/66.ts
 
 
@@ -73,15 +73,15 @@ http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/66.ts
 http://##
 
 
-#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 1 HD [/COLOR]
+#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR yellow] [B] Austria [/B] - ORF 1 HD [/COLOR]
 http://62.65.140.153:80/session/1c1b94e2-9633-11e5-8dea-005056bc49ac/nvnv5a/1/1010/index.m3u8?token=5d5bf2d6a3b7ff710e2d6c6e9a950346_1448844596_1448844596&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF 2 HD [/COLOR]
+#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR yellow] [B] Austria [/B] - ORF 2 HD [/COLOR]
 http://62.65.140.216:80/session/1c9487e4-9633-11e5-81f5-005056bc1a52/nvnv5a/1/1011/index.m3u8?token=bad587bc9998c164bc4cf9049215cb22_1448844596_1448844596&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - Plus 3 HD[/COLOR]
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR yellow] [B] Austria [/B] - Plus 3 HD[/COLOR]
 http://62.65.140.214:80/session/fd81905e-9632-11e5-b0b8-005056bc06d1/nvnv5a/1/1013/index.m3u8?token=ddde865e94d6b6b0a333f7c30518d3e5_1448844544_1448844544&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - Plus 4 HD[/COLOR]
+#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR yellow] [B] Austria [/B] - Plus 4 HD[/COLOR]
 http://62.65.140.154:80/session/fe7f76c4-9632-11e5-b063-005056bc1a52/nvnv5a/1/1031/index.m3u8?token=977ad7122b741c9f6689ec3f6ad04433_1448844546_1448844546&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - Plus 5 HD[/COLOR]
+#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR yellow] [B] Austria [/B] - Plus 5 HD[/COLOR]
 http://62.65.140.213:80/session/ff04bcee-9632-11e5-aa1e-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=58c603766af99d31e503153909a43578_1448844547_1448844547&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF Sport +[/COLOR]
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
