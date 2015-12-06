@@ -125,5 +125,7 @@ http://##
 
 #EXTINF:-1, [COLOR pink] sunshine live [/COLOR]
 http://stream.hoerradar.de/sunshinelive-mp3-128
-#EXTINF:-1, [COLOR pink] biFM 89.5 [/COLOR]
+#EXTINF:-1, [COLOR pink] bigFM 89.5 [/COLOR]
 http://srv05.bigstreams.de/bigfm-mp3-96
+#EXTINF:-1, tvg-logo="antennebayern.png",[COLOR pink] Antenne Bayern [/COLOR]
+http://mp3channels.webradio.antenne.de:80/antenne
