@@ -127,7 +127,7 @@ http://##
 
 #Radio
 
-#EXTINF:-0, radio="true" [COLOR pink] sunshine live [/COLOR]
+#EXTINF:-0, radio="true",[COLOR pink] sunshine live [/COLOR]
 http://stream.hoerradar.de/sunshinelive-mp3-128
 #EXTINF:-0, [COLOR pink] bigFM 89.5 [/COLOR]
 http://srv05.bigstreams.de/bigfm-mp3-96
