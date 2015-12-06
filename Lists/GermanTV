@@ -121,11 +121,11 @@ http://62.65.140.153:80/session/23c90760-9633-11e5-addc-005056bc1a52/nvnv5a/2/30
 http://##
 
 
+#Radio
 
-
-#EXTINF:-1, [COLOR pink] sunshine live [/COLOR]
+#EXTINF:-0, [COLOR pink] sunshine live [/COLOR]
 http://stream.hoerradar.de/sunshinelive-mp3-128
-#EXTINF:-1, [COLOR pink] bigFM 89.5 [/COLOR]
+#EXTINF:-0, [COLOR pink] bigFM 89.5 [/COLOR]
 http://srv05.bigstreams.de/bigfm-mp3-96
-#EXTINF:-1, tvg-logo="antennebayern.png",[COLOR pink] Antenne Bayern [/COLOR]
+#EXTINF:-0, tvg-logo="antennebayern.png",[COLOR pink] Antenne Bayern [/COLOR]
 http://mp3channels.webradio.antenne.de:80/antenne
