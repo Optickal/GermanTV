@@ -127,11 +127,14 @@ http://##
 
 #Radio
 
-#EXTINF:-0, radio="true",[COLOR pink] sunshine live [/COLOR]
+#EXTINF:-0 radio=true,[COLOR pink] sunshine live [/COLOR]
 http://stream.hoerradar.de/sunshinelive-mp3-128
-#EXTINF:-0, [COLOR pink] bigFM 89.5 [/COLOR]
+#EXTINF:-0 radio=true,[COLOR pink] bigFM 89.5 [/COLOR]
 http://srv05.bigstreams.de/bigfm-mp3-96
-#EXTINF:-0, tvg-logo="antennebayern.png",[COLOR pink] Antenne Bayern [/COLOR]
+#EXTINF:-0 radio=true,tvg-logo="antennebayern.png",[COLOR pink] Antenne Bayern [/COLOR]
 http://mp3channels.webradio.antenne.de:80/antenne
-#EXTINF:-0, tvg-logo="top100station.png",[COLOR pink] Top 100 Station [/COLOR]
+#EXTINF:-0 radio=true,tvg-logo="top100station.png",[COLOR pink] Top 100 Station [/COLOR]
 http://www.top100station.de/switch/vtuner.pls
+#EXTINF:-0 radio=true,[COLOR pink] Dasding [/COLOR]
+http://swr-mp3-m-dasding.akacast.akamaistream.net/7/588/137139/v1/gnl.akacast.akamaistream.net/swr-mp3-m-dasding
+
