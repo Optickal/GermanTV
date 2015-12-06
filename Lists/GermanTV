@@ -1,13 +1,13 @@
-#EXTM3U
+#EXTM3U tvg-shift=1
 
-#EXTINF:-1, tvg-logo="ger.png",[COLOR red] German [/COLOR]
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="ger.png",[COLOR red] German [/COLOR]
 http://##
 
-#EXTINF:-1,[COLOR red] [B] German [/B] - ARD HD [/COLOR]
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR red] [B] German [/B] - ARD HD [/COLOR]
 http://62.65.140.215:80/session/00aab6d4-9633-11e5-9a84-005056bc06d1/nvnv5a/2/1165/index.m3u8?token=5e6ea6b5f5d206f25249755be024c3f5_1448844549_1448844549&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF HD [/COLOR]
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR red] [B] German [/B] - ZDF HD [/COLOR]
 http://62.65.140.148:80/session/386ae36e-9633-11e5-b56d-005056bc06d1/nvnv5a/2/1166/index.m3u8?token=74ccab6967f3db06d1253eab85241189_1448844643_1448844643&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - RTL HD [/COLOR]
+#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR red] [B] German [/B] - RTL HD [/COLOR]
 http://62.65.140.152:80/session/245b3e32-9633-11e5-9a40-005056bc06d1/nvnv5a/1/1020/index.m3u8?token=f1fdbb120b374f690eca9fe9d3bbb38d_1448844609_1448844609&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Sat 1 HD [/COLOR]
 http://62.65.140.150:80/session/27df3b4e-9633-11e5-b06f-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=01354d7e79bd433c826d84cf1028932a_1448844615_1448844615&p=127|X-Forwarded-For=85.195.192.0
