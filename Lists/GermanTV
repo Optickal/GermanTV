@@ -15,6 +15,8 @@ http://62.65.140.152:80/session/1d8ef3fa-9633-11e5-88e7-005056bc06d1/nvnv5a/1/10
 #EXTINF:-1,[COLOR red] [B] German [/B] - VOX HD [/COLOR]
 http://62.65.140.153:80/session/360b5112-9633-11e5-bbfc-005056bc1a52/nvnv5a/1/1021/index.m3u8?token=052ce9a8e433145ce1f9e3805c4e3860_1448844639_1448844639&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - RTL II HD [/COLOR]
+http://62.65.140.214/session/eda430be-9b8d-11e5-a9a1-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=22bd4d7498c5df323e154c602049a2e9_1449433346_1449433346&p=127|X-Forwarded-For=85.7.7.64
+
 http://62.65.140.150:80/session/2342a3aa-9633-11e5-9933-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=1aed0fb1111d8890560e65b73611e9e1_1448844607_1448844607&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Kabel eins HD [/COLOR]
 http://62.65.140.216:80/session/154375d6-9633-11e5-b977-005056bc06d1/nvnv5a/1/1039/index.m3u8?token=db5ebfbce3e5567c25ce9a689adf9cbe_1448844584_1448844584&p=127|X-Forwarded-For=85.195.192.0
