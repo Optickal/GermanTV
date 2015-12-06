@@ -126,7 +126,8 @@ http://##
 
 
 #Radio
-
+#EXTINF:-1 radio=true tvg-logo="top100station.png",TOP 100 STATION
+http://87.230.101.30:80
 #EXTINF:-0 radio=true,[COLOR pink] sunshine live [/COLOR]
 http://stream.hoerradar.de/sunshinelive-mp3-128
 #EXTINF:-0 radio=true,[COLOR pink] bigFM 89.5 [/COLOR]
