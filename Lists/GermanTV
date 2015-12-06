@@ -1,52 +1,52 @@
-#EXTM3U tvg-shift=1
+#EXTM3U tvg-shift=0
 
-#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="ger.png",[COLOR red] 　 [/COLOR]
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="ger.png",[COLOR red] [/COLOR]
 http://##
 
 #EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered] Das Erste HD [/COLOR]
 http://62.65.140.151:80/session/2016613c-9bd6-11e5-bd14-005056bc1a52/nvnv5a/2/1165/index.m3u8?token=a91595a814ee48d212d907b6413c9f89_1449464366_1449464366&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orange] [B] German [/B] - ZDF HD [/COLOR]
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered] ZDF HD [/COLOR]
 http://62.65.140.152:80/session/a0c8abea-9c36-11e5-af90-005056bc06d1/nvnv5a/2/1166/index.m3u8?token=f954111eb35efc359c8f69825a95cfd6_1449505806_1449505806&p=127|X-Forwarded-For=85.5.112.37
-#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR red] RTL HD [/COLOR]
+#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR orangered] RTL HD [/COLOR]
 http://62.65.140.152:80/session/e01a08bc-9c35-11e5-9574-005056bc49ac/nvnv5a/1/1020/index.m3u8?token=32b67005bfec2085bc0d3b26853ec2d6_1449505482_1449505482&p=127|X-Forwarded-For=85.2.83.145
-#EXTINF:-1,[COLOR red] [B] German [/B] - Sat 1 HD [/COLOR]
-http://62.65.140.150:80/session/27df3b4e-9633-11e5-b06f-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=01354d7e79bd433c826d84cf1028932a_1448844615_1448844615&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Pro7 HD [/COLOR]
-http://62.65.140.152:80/session/1d8ef3fa-9633-11e5-88e7-005056bc06d1/nvnv5a/1/1037/index.m3u8?token=797aba52f3b14809dc49f73698a8948a_1448844598_1448844598&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - VOX HD [/COLOR]
-http://62.65.140.153:80/session/360b5112-9633-11e5-bbfc-005056bc1a52/nvnv5a/1/1021/index.m3u8?token=052ce9a8e433145ce1f9e3805c4e3860_1448844639_1448844639&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,channel id="Rtl2.de.de" tvg-logo="rtl2.de.png",[COLOR red] [B] German [/B] - RTL II HD [/COLOR]
+#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0129.png",[COLOR orangered]Sat.1 HD[/COLOR]
+http://62.65.140.150:80/session/44d7579c-9bd6-11e5-aba9-005056bc49ac/nvnv5a/1/1038/index.m3u8?token=33d26c8f305f1315213fec14c60c7030_1449464428_1449464428&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0128.png",[COLOR orangered]Pro sieben HD[/COLOR]
+http://62.65.140.216:80/session/6da44342-9b68-11e5-b746-005056bc06d1/nvnv5a/1/1037/index.m3u8?token=0815e284e17c4d3538d8ead08badbdc3_1449417251_1449417251&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0044 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="vox.de.png",[COLOR orange] VOX [/COLOR]
+http://217.20.164.196:8080/vox/index.m3u8
+#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0131.png",[COLOR orangered] RTL II HD [/COLOR]
 http://62.65.140.214/session/eda430be-9b8d-11e5-a9a1-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=22bd4d7498c5df323e154c602049a2e9_1449433346_1449433346&p=127|X-Forwarded-For=85.7.7.64
-#EXTINF:-1,[COLOR red] [B] German [/B] - Kabel eins HD [/COLOR]
-http://62.65.140.216:80/session/154375d6-9633-11e5-b977-005056bc06d1/nvnv5a/1/1039/index.m3u8?token=db5ebfbce3e5567c25ce9a689adf9cbe_1448844584_1448844584&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Super RTL HD [/COLOR]
-http://62.65.140.215:80/session/26e9df32-9633-11e5-988f-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=fd5294f754b2f7e1dfd6c4132fe98f07_1448844614_1448844614&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Kika HD [/COLOR]
-http://62.65.140.151:80/session/15e77bd6-9633-11e5-8657-005056bc49ac/nvnv5a/1/1116/index.m3u8?token=53f99b482695bd8b6c005006e85f5672_1448844585_1448844585&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Nickelodeon HD [/COLOR]
-http://62.65.140.212:80/session/1b1a95e8-9633-11e5-a85b-005056bc1a52/nvnv5a/1/1004/index.m3u8?token=252366c382e52d02d40ac3530620be89_1448844594_1448844594&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Disney Channel [/COLOR]
-http://62.65.140.150:80/session/0a39d4b4-9633-11e5-82ed-005056bc49ac/nvnv5a/1/1124/index.m3u8?token=261959ee93f4dcae38c84e6d7fd12643_1448844566_1448844566&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF info HD [/COLOR]
+#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0130.png",[COLOR orangered]Kabel 1 HD[/COLOR]
+http://62.65.140.148:80/session/33a4f4ac-9bd6-11e5-8bd1-005056bc49ac/nvnv5a/1/1039/index.m3u8?token=018c67be1cb700b6e321599aa2bfcf31_1449464399_1449464399&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRTL.de" group-title="Deutsch" tvg-logo="0143.png",[COLOR orangered]Super RTL HD[/COLOR]
+http://62.65.140.151:80/session/43f0b184-9bd6-11e5-ae56-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=8c9a1153abdecc263570aa06c9d80b81_1449464426_1449464426&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKa HD[/COLOR]
+http://62.65.140.153:80/session/3430a86c-9bd6-11e5-957d-005056bc06d1/nvnv5a/1/1116/index.m3u8?token=0411fdb4a2001018d0a6c9a8545eb9d6_1449464399_1449464399&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Nick.de" group-title="Deutsch" tvg-logo="0043.png",[COLOR orangered]Nickelodeon[/COLOR]
+http://62.65.140.148:80/session/390e5942-9bd6-11e5-bc66-005056bc49ac/nvnv5a/1/1004/index.m3u8?token=504bd3a837e79caa1a14f5383f806299_1449464408_1449464408&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="disneychannel.de" group-title="Deutsch" tvg-logo="0036.png",[COLOR orangered]Disney Channel[/COLOR]
+http://62.65.140.215:80/session/29677366-9bd6-11e5-8bc4-005056bc1a52/nvnv5a/1/1124/index.m3u8?token=73e0cba342b7fdb404471ca26fdc7832_1449464382_1449464382&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,[COLOR red] [B] DOWN [/B] - ZDF info HD [/COLOR]
 http://62.65.140.216:80/session/3772c76a-9633-11e5-ae20-005056bc06d1/nvnv5a/1/1118/index.m3u8?token=2b9beff27857646669358605a1eb08d3_1448844641_1448844641&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF Kultur HD [/COLOR]
+#EXTINF:-1,[COLOR red] [B] DOWN [/B] - ZDF Kultur HD [/COLOR]
 http://62.65.140.148:80/session/37ece662-9633-11e5-8449-005056bc06d1/nvnv5a/1/1119/index.m3u8?token=1d0f7414409ae5635ffbb65cfb168890_1448844642_1448844642&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - ZDF neo [/COLOR]
+#EXTINF:-1,[COLOR red] [B] DOWN [/B] - ZDF neo [/COLOR]
 http://62.65.140.150:80/session/1ca402b4-9494-11e5-a0b7-005056bc06d1/nvnv5a/1/1121/index.m3u8?token=2146edb094506b4e2b2d37118d026e15_1448666355_1448666355&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Pro7 Maxx [/COLOR]
+#EXTINF:-1,[COLOR red] [B] DOWN [/B] - Pro7 Maxx [/COLOR]
 http://62.65.140.212:80/session/1e0995e2-9633-11e5-b455-005056bc06d1/nvnv5a/1/1041/index.m3u8?token=3c4990080482c7836b500761a7473212_1448844599_1448844599&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Arte HD [/COLOR]
-http://62.65.140.218:80/session/01b35c66-9633-11e5-8f35-005056bc49ac/nvnv5a/1/1150/index.m3u8?token=2ece216f4ca1d85b95d0ecdbad54d9a9_1448844551_1448844551&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - BR HD [/COLOR]
-http://62.65.140.213:80/session/04354e0e-9633-11e5-b1d6-005056bc06d1/nvnv5a/1/1112/index.m3u8?token=14f569578b4ed93d675d8c6eb9cf37c7_1448844555_1448844555&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Dmax [/COLOR]
-http://62.65.140.151:80/session/0abd8afc-9633-11e5-9f2a-005056bc49ac/nvnv5a/1/1018/index.m3u8?token=f09a5e97aeb6c99f956cceca24f534a8_1448844566_1448844566&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - Eurospot [/COLOR]
-http://62.65.140.151:80/session/0db4bbc2-9633-11e5-a8d9-005056bc06d1/nvnv5a/1/1051/index.m3u8?token=fc4c2373d15f202deab32780d80d8891_1448844571_1448844571&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - ntv HD [/COLOR]
+#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR orangered]Arte HD[/COLOR]
+http://62.65.140.151:80/session/21268ce6-9bd6-11e5-8bea-005056bc06d1/nvnv5a/1/1150/index.m3u8?token=6cc7d030f819cb4ef41ecfacc2a10476_1449464368_1449464368&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BR.de" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered] BR HD [/COLOR]
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR orangered]DMAX[/COLOR]
+http://62.65.140.148:80/session/29cc1938-9bd6-11e5-8896-005056bc06d1/nvnv5a/1/1018/index.m3u8?token=05cdc64ffbd41ecfe9c4aa13c0a51912_1449464382_1449464382&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR orangered]EuroSport[/COLOR]
+http://62.65.140.151:80/session/2c791a00-9bd6-11e5-89fa-005056bc1a52/nvnv5a/1/1051/index.m3u8?token=0e0d7821936b769d0ae12cf658667826_1449464387_1449464387&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ntv.de" group-title="Deutsch" tvg-logo="0034.png",[COLOR orangered] ntv HD [/COLOR]
 http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/76.ts
-#EXTINF:-1,[COLOR red] [B] German [/B] - NDR HD [/COLOR]
-http://62.65.140.153:80/session/1a9f6b48-9633-11e5-b485-005056bc06d1/nvnv5a/1/1115/index.m3u8?token=9b97b12cece6d55f85a2f621270e8ebb_1448844593_1448844593&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ndr.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR orangered] NDR HD [/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
 #EXTINF:-1,[COLOR red] [B] German [/B] - MDR [/COLOR]
 http://62.65.140.213:80/session/189ae778-9633-11e5-8954-005056bc06d1/nvnv5a/1/1069/index.m3u8?token=1b2b9696217d4f06a74622b2f9fb50ce_1448844590_1448844590&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Phoenix HD [/COLOR]
@@ -59,83 +59,111 @@ http://62.65.140.217:80/session/285c63ee-9633-11e5-834c-005056bc06d1/nvnv5a/1/10
 http://62.65.140.219:80/session/28e6f324-9633-11e5-b88e-005056bc1a52/nvnv5a/1/1040/index.m3u8?token=eef911b356459fde9bcd0f83f7776593_1448844617_1448844617&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Sport1 [/COLOR]
 http://62.65.140.217:80/session/2962825a-9633-11e5-a722-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=6bde5f3910e816caf1392860ba1130f4_1448844618_1448844618&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - 3sat HD [/COLOR]
+#EXTINF:-1,[COLOR orangered] 3sat HD [/COLOR]
 http://62.65.140.218:80/session/fe00cdf6-9632-11e5-bf0c-005056bc1a52/nvnv5a/1/1117/index.m3u8?token=faa5f71a591fade0a51507efe40f78ad_1448844545_1448844545&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR red] [B] German [/B] - SWR BW HD [/COLOR]
-http://62.65.140.148:80/session/2bdd9920-9633-11e5-95cb-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=523b05c90eb38238065b4ae35da93b3f_1448844622_1448844622&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="test.png,[COLOR green] Sky Germany Bundesliga 5 HD / Alternativ Sky UK Sports 5 HD [/COLOR]
+#EXTINF:-1 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR orangered] SWR BW HD [/COLOR]
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+#EXTINF:-1 tvg-id="SkySports5.uk" group-title="UK" tvg-logo="test.png,[COLOR green] Sky Germany Bundesliga 5 HD / Alternativ Sky UK Sports 5 HD [/COLOR]
 http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/66.ts
 
 
 
 
-#EXTINF:-1, tvg-logo="at.png",[COLOR yellow] 　 [/COLOR]
+#EXTINF:-1, tvg-logo="at.png",[COLOR yellow] [/COLOR]
 http://##
 
 
-#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR yellow] [B] Austria [/B] - ORF 1 HD [/COLOR]
-http://62.65.140.153:80/session/1c1b94e2-9633-11e5-8dea-005056bc49ac/nvnv5a/1/1010/index.m3u8?token=5d5bf2d6a3b7ff710e2d6c6e9a950346_1448844596_1448844596&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR yellow] [B] Austria [/B] - ORF 2 HD [/COLOR]
-http://62.65.140.216:80/session/1c9487e4-9633-11e5-81f5-005056bc1a52/nvnv5a/1/1011/index.m3u8?token=bad587bc9998c164bc4cf9049215cb22_1448844596_1448844596&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR yellow] [B] Austria [/B] - Plus 3 HD[/COLOR]
-http://62.65.140.214:80/session/fd81905e-9632-11e5-b0b8-005056bc06d1/nvnv5a/1/1013/index.m3u8?token=ddde865e94d6b6b0a333f7c30518d3e5_1448844544_1448844544&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR yellow] [B] Austria [/B] - Plus 4 HD[/COLOR]
-http://62.65.140.154:80/session/fe7f76c4-9632-11e5-b063-005056bc1a52/nvnv5a/1/1031/index.m3u8?token=977ad7122b741c9f6689ec3f6ad04433_1448844546_1448844546&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR yellow] [B] Austria [/B] - Plus 5 HD[/COLOR]
-http://62.65.140.213:80/session/ff04bcee-9632-11e5-aa1e-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=58c603766af99d31e503153909a43578_1448844547_1448844547&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR yellow] [B] Austria [/B] - ORF Sport +[/COLOR]
-http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR yellow] ORF 1 HD [/COLOR]
+http://62.65.140.153:80/session/8e5e4858-9c35-11e5-b739-005056bc06d1/nvnv5a/1/1010/index.m3u8?token=e98fdedbff74fd4c97ae00496c2a2eac_1449505345_1449505345&p=127|X-Forwarded-For=85.5.109.155
+#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR yellow] ORF 2 HD [/COLOR]
+http://62.65.140.155:80/session/937c2990-9c35-11e5-9d01-005056bc06d1/nvnv5a/1/1011/index.m3u8?token=f1477b04819678d7ec86639ae3816925_1449505354_1449505354&p=127|X-Forwarded-For=85.0.191.208
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR yellow] Plus 3 HD[/COLOR]
+http://62.65.140.214:80/session/1d41bc4a-9bd6-11e5-b51d-005056bc06d1/nvnv5a/1/1013/index.m3u8?token=ac6300f68389a46ce94793b53d186d0f_1449464361_1449464361&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR yellow] Plus 4 HD[/COLOR]
+http://62.65.140.215:80/session/1e281190-9bd6-11e5-9698-005056bc06d1/nvnv5a/1/1031/index.m3u8?token=e5b821a820610edebaa592cbce8affc0_1449464362_1449464362&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR yellow] Plus 5 HD[/COLOR]
+http://62.65.140.152:80/session/1eb1acf2-9bd6-11e5-bb12-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=0f7924bc12d16ebff30cc6212d54a652_1449464363_1449464363&p=127|X-Forwarded-For=85.195.192.0
+
       
 
 
 
 
 
-#EXTINF:-1, tvg-logo="ch.png",[COLOR blue] 　 [/COLOR]
+#EXTINF:-1, tvg-logo="ch.png",[COLOR blue] [/COLOR]
 http://##
 
 
-#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",[COLOR blue] [B] Swiss [/B] - SRF 1 HD [/COLOR] 
-http://62.65.140.155:80/session/29e7cf32-9633-11e5-b97d-005056bc1a52/nvnv5a/1/1008/index.m3u8?token=ed20a6c733fab8323731de9f729d45f8_1448844619_1448844619&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR blue] [B] Swiss [/B] - SRF 2 HD [/COLOR] 
-http://62.65.140.151:80/session/2a685a9e-9633-11e5-b9bd-005056bc1a52/nvnv5a/1/1009/index.m3u8?token=c02a2cbdda119b2f3788f0f7aa4eec57_1448844619_1448844619&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",[COLOR blue] [B] Swiss [/B] - SRF info [/COLOR]
-http://62.65.140.214:80/session/2ae3e1b4-9633-11e5-be20-005056bc1a52/nvnv5a/1/1003/index.m3u8?token=be8847922336b6e65b2e2b254390c432_1448844620_1448844620&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR blue] [B] Swiss [/B] - S1 HD [/COLOR]
-http://62.65.140.214:80/session/276c74ba-9633-11e5-bf2f-005056bc06d1/nvnv5a/1/1035/index.m3u8?token=6fc0e6912082bff883bee1eab6f68205_1448844615_1448844615&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR blue] [B] Swiss [/B] - Plus 8 HD [/COLOR]
-http://62.65.140.154:80/session/1e970c7e-9633-11e5-9683-005056bc49ac/nvnv5a/2/1053/index.m3u8?token=9f3b7ad1eff4a7ca45e38dd0b7c55edf_1448844600_1448844600&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRF1.ch" group-title="Deutsch" tvg-logo="0076.png",[COLOR blue]SRF 1 HD[/COLOR]
+http://62.65.140.150:80/session/4673d4a4-9bd6-11e5-a289-005056bc1a52/nvnv5a/1/1008/index.m3u8?token=9e621b81a5d748d62ade2a1a6116f93c_1449464430_1449464430&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRF2.ch" group-title="Deutsch" tvg-logo="0078.png",[COLOR blue]SRF zwei HD[/COLOR]
+http://62.65.140.151:80/session/46d12e38-9bd6-11e5-9905-005056bc06d1/nvnv5a/1/1009/index.m3u8?token=36c4f24c9a64837422b85d474c7e8866_1449464431_1449464431&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Deutsch" tvg-logo="0079.png",[COLOR blue]SRF info[/COLOR]
+http://62.65.140.213:80/session/472f22cc-9bd6-11e5-bf2f-005056bc06d1/nvnv5a/1/1003/index.m3u8?token=9e2c26c90cc495bf97566ee9a0472c48_1449464432_1449464432&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="S1.ch" group-title="Deutsch" tvg-logo="0081.png",[COLOR blue]S1 HD[/COLOR]
+http://62.65.140.150:80/session/447592fa-9bd6-11e5-bb05-005056bc06d1/nvnv5a/1/1035/index.m3u8?token=8387d1b7a50802f188d124440cf908ee_1449464427_1449464427&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Puls8.ch" group-title="Deutsch" tvg-logo="modern_blank.png",[COLOR blue]Puls 8 HD[/COLOR]
+http://62.65.140.155:80/session/6e867eb0-9b68-11e5-9423-005056bc1a52/nvnv5a/2/1053/index.m3u8?token=931ddebfd1f90dd5c895388b9ea6c989_1449417253_1449417253&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Nick.ch" group-title="Deutsch" tvg-logo="0141.png",[COLOR blue]Nickelodeon HD Schweiz[/COLOR]
+http://62.65.140.151:80/session/39933c2a-9bd6-11e5-aebc-005056bc1a52/nvnv5a/1/1034/index.m3u8?token=ee3841beb1a401733b8a31eb35bbd6e6_1449464409_1449464409&p=127|X-Forwarded-For=85.195.192.0
 
+#EXTINF:-1,[COLOR green] [/COLOR]
+http://##
 
+#EXTINF:-1,[COLOR pink][B]###### MUSIC ######[/B][/COLOR]
+http://##
 
+#EXTINF:-1,[COLOR orange] [/COLOR]
+http://##
 
-#EXTINF:-1,[COLOR orange] [B] Musik [/B] - MTV [/COLOR]
-http://62.65.140.213:80/session/199453b2-9633-11e5-bb1e-005056bc1a52/nvnv5a/1/1033/index.m3u8?token=2f0423c7511aa67290caa87b4a4f05d2_1448844591_1448844591&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR orange] [B] Musik [/B] - VIVA HD [/COLOR]
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Music" tvg-logo="vevo.tv.png",[COLOR gold]VEVO Deutschland[/COLOR]
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/appleman.m3u8
+#EXTINF:-1 tvg-id="MTV.ch" group-title="Music" tvg-logo="0145.png",[COLOR gold]MTV HD[/COLOR]
+http://62.65.140.149:80/session/6a189476-9b68-11e5-9eb8-005056bc49ac/nvnv5a/1/1033/index.m3u8?token=ca986de53644dcae979f0e321971f97c_1449417245_1449417245&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-logo="test.png",[COLOR gold] VIVA HD [/COLOR]
 http://62.65.140.154:80/session/358a1eda-9633-11e5-bf7b-005056bc1a52/nvnv5a/1/1014/index.m3u8?token=e2baed8af2cbb5ded3ab554966e88423_1448844638_1448844638&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR orange] [B] Musik [/B] - DELUXE MUSIC TV [/COLOR]
-http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/hasbahca.m3u8?bitrate=800
-#EXTINF:-1,[COLOR orange] [B] Musik [/B] - Joiz [/COLOR]
-http://62.65.140.154:80/session/14ae9f6a-9633-11e5-ba60-005056bc1a52/nvnv5a/2/1172/index.m3u8?token=6965eb9e60c4e19c2856bde730be0c50_1448844583_1448844583&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1,[COLOR orange] [B] Musik [/B] - RTL 102.5 [/COLOR]
-http://62.65.140.153:80/session/23c90760-9633-11e5-addc-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=006cb81b68e364d375b5c3b2ec484408_1448844608_1448844608&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" group-title="Music" tvg-logo="0065.png",[COLOR gold]Deluxe Music[/COLOR]
+http://62.65.140.153:80/session/5b549a3e-9b68-11e5-9c1f-005056bc06d1/nvnv5a/1/1153/index.m3u8?token=f216e88d8432a79299b8a034ef4b562c_1449417220_1449417220&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Joiz.ch" group-title="Deutsch" tvg-logo="0042.png",[COLOR gold]Joiz[/COLOR]
+http://62.65.140.151:80/session/659382e4-9b68-11e5-aea7-005056bc1a52/nvnv5a/2/1172/index.m3u8?token=237cec2a311bd9a1810fa861ca2a1ebb_1449417238_1449417238&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="rtl1025.ch" group-title="Italian" tvg-logo="modern_blank.png",[COLOR gold]RTL 102.5[/COLOR]
+http://62.65.140.150:80/session/74375ef6-9b68-11e5-bd04-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=8e73753cbe5ea2d0995001ca011fe876_1449417262_1449417262&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO DE HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0007.m3u8
+#EXTINF:3002 tvg-id="vevousca1.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO US/CA 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0006.m3u8
+#EXTINF:3003 tvg-id="vevousca2.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO US/CA 2 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0005.m3u8
+#EXTINF:3004 tvg-id="vevousca3.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO US/CA 3 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0004.m3u8
+#EXTINF:3005 tvg-id="onemusic1.mus" group-title="Music" tvg-logo="modern_blank.png", [COLOR gold]ONE Music 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0003.m3u8
+#EXTINF:3006 tvg-id="onemusic2.mus" group-title="Music" tvg-logo="modern_blank.png", [COLOR gold]ONE Music 2 UHD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0002.m3u8
+#EXTINF:3007 tvg-id="onemusicrus.mus" group-title="Music" tvg-logo="modern_blank.png", [COLOR gold]ONE Music Russia HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0001.m3u8
 
 
-#EXTINF:-1, [COLOR grey] Updated 29.11.2O15 [/COLOR]
+
+#EXTINF:-1,[COLOR orangered] [/COLOR]
 http://##
 
+#EXTINF:-1,[COLOR gold] [/COLOR]
+http://##
 
-#Radio
-#EXTINF:-1 radio=true tvg-logo="top100station.png",TOP 100 STATION
-http://87.230.101.30:80
-#EXTINF:-0 radio=true,[COLOR pink] sunshine live [/COLOR]
+#EXTINF:-1 "radio=true" group-title="Radio" tvg-logo="modern_blank.png",[COLOR pink] sunshine live [/COLOR]
 http://stream.hoerradar.de/sunshinelive-mp3-128
-#EXTINF:-0 radio=true,[COLOR pink] bigFM 89.5 [/COLOR]
+#EXTINF:-1 "radio=true" group-title="Radio" tvg-logo="modern_blank.png",[COLOR pink] bigFM 89.5 [/COLOR]
 http://srv05.bigstreams.de/bigfm-mp3-96
-#EXTINF:-0 radio=true,tvg-logo="antennebayern.png",[COLOR pink] Antenne Bayern [/COLOR]
+#EXTINF:-1 radio="true" group-title="Radio" tvg-logo="antennebayern.png",[COLOR pink] Antenne Bayern [/COLOR]
 http://mp3channels.webradio.antenne.de:80/antenne
-#EXTINF:-0 radio=true,tvg-logo="top100station.png",[COLOR pink] Top 100 Station [/COLOR]
+#EXTINF:-1 radio="true" group-title="Radio" tvg-logo="top100station.png",[COLOR pink] Top 100 Station [/COLOR]
 http://www.top100station.de/switch/vtuner.pls
-#EXTINF:-0 radio=true,[COLOR pink] Dasding [/COLOR]
+#EXTINF:-1 radio="true" group-title="Radio" tvg-logo="modern_blank.png",[COLOR pink] Dasding [/COLOR]
 http://swr-mp3-m-dasding.akacast.akamaistream.net/7/588/137139/v1/gnl.akacast.akamaistream.net/swr-mp3-m-dasding
-
+#EXTINF:-1 radio="true" group-title="Radio" tvg-logo="modern_blank.png",[COLOR pink]KRONEHIT HD mp3 128 kBs Stereo[/COLOR]
+http://onair-ha1.krone.at/kronehit-hd.mp3.m3u
+#EXTINF:-1 radio="true" group-title="Radio" tvg-logo="modern_blank.png",[COLOR pink]KRONEHIT AAC 64 64 kBs Stereo[/COLOR]
+http://onair-ha1.krone.at/kronehit64.aac.m3u
+#EXTINF:-1 radio="true" group-title="Radio" tvg-logo="modern_blank.png",[COLOR pink]KRONEHIT Ultra HD AAC 320 kBs Stereo[/COLOR]
+http://onair-ha1.krone.at/kronehit-ultra-hd.aac.m3u
