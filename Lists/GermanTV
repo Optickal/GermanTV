@@ -5,10 +5,10 @@ http://##
 
 #EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered] Das Erste HD [/COLOR]
 http://62.65.140.151:80/session/2016613c-9bd6-11e5-bd14-005056bc1a52/nvnv5a/2/1165/index.m3u8?token=a91595a814ee48d212d907b6413c9f89_1449464366_1449464366&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR red] [B] German [/B] - ZDF HD [/COLOR]
-http://62.65.140.148:80/session/386ae36e-9633-11e5-b56d-005056bc06d1/nvnv5a/2/1166/index.m3u8?token=74ccab6967f3db06d1253eab85241189_1448844643_1448844643&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR red] [B] German [/B] - RTL HD [/COLOR]
-http://62.65.140.152:80/session/245b3e32-9633-11e5-9a40-005056bc06d1/nvnv5a/1/1020/index.m3u8?token=f1fdbb120b374f690eca9fe9d3bbb38d_1448844609_1448844609&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orange] [B] German [/B] - ZDF HD [/COLOR]
+http://62.65.140.152:80/session/a0c8abea-9c36-11e5-af90-005056bc06d1/nvnv5a/2/1166/index.m3u8?token=f954111eb35efc359c8f69825a95cfd6_1449505806_1449505806&p=127|X-Forwarded-For=85.5.112.37
+#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR red] RTL HD [/COLOR]
+http://62.65.140.152:80/session/e01a08bc-9c35-11e5-9574-005056bc49ac/nvnv5a/1/1020/index.m3u8?token=32b67005bfec2085bc0d3b26853ec2d6_1449505482_1449505482&p=127|X-Forwarded-For=85.2.83.145
 #EXTINF:-1,[COLOR red] [B] German [/B] - Sat 1 HD [/COLOR]
 http://62.65.140.150:80/session/27df3b4e-9633-11e5-b06f-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=01354d7e79bd433c826d84cf1028932a_1448844615_1448844615&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1,[COLOR red] [B] German [/B] - Pro7 HD [/COLOR]
