@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#EXTINF:-1, tvg-logo="ger.png",[COLOR red] Deutschland [/COLOR] 
 
 #EXTINF:-1,[COLOR red] [B] German [/B] - ARD HD [/COLOR]
 http://62.65.140.215:80/session/00aab6d4-9633-11e5-9a84-005056bc06d1/nvnv5a/2/1165/index.m3u8?token=5e6ea6b5f5d206f25249755be024c3f5_1448844549_1448844549&p=127|X-Forwarded-For=85.195.192.0
