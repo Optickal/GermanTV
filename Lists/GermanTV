@@ -133,3 +133,5 @@ http://stream.hoerradar.de/sunshinelive-mp3-128
 http://srv05.bigstreams.de/bigfm-mp3-96
 #EXTINF:-0, tvg-logo="antennebayern.png",[COLOR pink] Antenne Bayern [/COLOR]
 http://mp3channels.webradio.antenne.de:80/antenne
+#EXTINF:-0, tvg-logo="top100station.png",[COLOR pink] Top 100 Station [/COLOR]
+http://www.top100station.de/switch/vtuner.pls
