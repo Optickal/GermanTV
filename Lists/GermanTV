@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/5z3endwer6s9k8pyqpk7"
+#EXTM3U
 #EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-name="RegioTVBodensee.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png" group-title="TV Sender",RegioTVBodensee.de
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="RegioTV Stuttgart" tvg-name="RegioTV Stuttgart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png" group-title="TV Sender",RegioTV Stuttgart
