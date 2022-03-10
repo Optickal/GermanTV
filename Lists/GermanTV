@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RegioTV Bodensee" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png" group-title="TV Sender",RegioTV Bodensee
+#EXTINF:-1 tvg-id="RegioTV Bodensee" tvg-name="RegioTV Bodensee" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png" group-title="TV Sender",RegioTV Bodensee
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RegioTV Stuttgart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png" group-title="TV Sender",RegioTV Stuttgart
+#EXTINF:-1 tvg-id="RegioTV Stuttgart" tvg-name="RegioTV Stuttgart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png" group-title="TV Sender",RegioTV Stuttgart
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 HD" tvg-name="RTL 102.5 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/rtl-1025-it.png" group-title="TV Radiosender",RTL 102.5 HD
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
