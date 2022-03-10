@@ -33,3 +33,5 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-name="RTV San Marino" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png" group-title="TV Radiosender",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-name="Ottanta" group-title="Italien" radio="true" tvg-logo="https://www.radio.de/images/broadcasts/75/b8/20528/c300.png",Ottanta
+https://sphera.fluidstream.eu/radio80.aac
