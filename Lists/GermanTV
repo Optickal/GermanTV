@@ -1,5 +1,5 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="RegioTV Bodensee" tvg-name="RegioTV Bodensee" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png" group-title="TV Sender",RegioTV Bodensee
+#EXTM3U url-tvg="http://m3u4u.com/epg/5z3endwer6s9k8pyqpk7"
+#EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-name="RegioTVBodensee.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png" group-title="TV Sender",RegioTVBodensee.de
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="RegioTV Stuttgart" tvg-name="RegioTV Stuttgart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png" group-title="TV Sender",RegioTV Stuttgart
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
@@ -15,8 +15,6 @@ https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-name="RADIO KISS KISS TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="TV Radiosender",RADIO KISS KISS TV
 https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiRadio2.it" tvg-name="Rai Radio 2 Visual" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="TV Radiosender",Rai Radio 2 Visual
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
 #EXTINF:-1 tvg-id="RTL102.5News.it" tvg-name="RTL 102.5 News" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="TV Radiosender",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-id="VirginRadio.it" tvg-name="VIRGIN RADIO" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="TV Radiosender",VIRGIN RADIO
