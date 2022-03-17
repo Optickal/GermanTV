@@ -45,5 +45,7 @@ https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 tvg-name="DASDING-VisualRadio" tvg-id="Dasding.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING-VisualRadio
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1 tvg-name="Oberjoch Webcam" tvg-id="Dasding.de" group-title="Webcam" tvg-logo="https://www.bergbahnen-hindelang-oberjoch.de/wp-content/themes/bho-2019/assets/images/logo.png",[COLOR orange] Oberjoch Webcam [/COLOR]
-https://ch-fra-n13.livespotting.com/vpu/d6se1ryf/edlyww6d_720.m3u8
+#EXTINF:-1 tvg-name="Oberjoch Webcam" tvg-id="OJ" group-title="Webcam" tvg-logo="https://www.bergbahnen-hindelang-oberjoch.de/wp-content/themes/bho-2019/assets/images/logo.png",[COLOR orange] Oberjoch Webcam Test 1[/COLOR]
+https://ch-fra-n16.livespotting.com/vpu/d6se1ryf/edlyww6d_720.m3u8?session=eaebeef6-745e-4e4e-8c94-6cfcb3e24ed0
+#EXTINF:-1 tvg-name="Oberjoch Webcam" tvg-id="OJ" group-title="Webcam" tvg-logo="https://www.bergbahnen-hindelang-oberjoch.de/wp-content/themes/bho-2019/assets/images/logo.png",[COLOR orange] Oberjoch Webcam Test 2[/COLOR]
+https://ch-fra-n16.livespotting.com/vpu/d6se1ryf/edlyww6d.m3u8?
