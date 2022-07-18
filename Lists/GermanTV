@@ -49,6 +49,8 @@ https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 tvg-name="DASDING-VisualRadio" tvg-id="Dasding.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING-VisualRadio
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+
+
 #EXTINF:-1 tvg-name="Oberjoch Webcam" tvg-id="OJ" group-title="Webcam" tvg-logo="https://i.ibb.co/CPfTkDF/Bergbahnen-Hindelang-Oberjoch.png",[COLOR orange] Oberjoch Webcam Test 1[/COLOR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ch-fra-n16.livespotting.com/vpu/d6se1ryf/edlyww6d_720.m3u8?session=eaebeef6-745e-4e4e-8c94-6cfcb3e24ed0
@@ -59,6 +61,11 @@ https://ch-fra-n16.livespotting.com/vpu/d6se1ryf/edlyww6d.m3u8?
 https://stream.webcam-livestream.at/live/mellaurossstelle/index.m3u8
 #EXTINF:-1 group-title="Webcam" tvg-logo="https://www.damuels-mellau.at/bundles/clientwebsite/damuels_mellau/img/damuels_mellau_logo.png",Mellau Rosenstelle Berg
 https://stream.webcam-livestream.at/live/rossstelleberg/index.m3u8
+#EXTINF:-1 group-title="Webcam" tvg-logo="https://www.visitjesolo.it/sites/default/files/styles/600_360/public/schstr/restyling-logo-comino-01_0.png?itok=EPCzI1iQ",[COLOR blue] Jesolo Webcam [/COLOR]
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658177300/ei/tHLVYsWwFdio1gLagYrABQ/ip/92.205.10.243/id/W2g6PVsGZ6g.2/source/yt_live_broadcast/requiressl/yes/tx/24215397/txs/24215395%2C24215396%2C24215397%2C24215398/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhsjUyYoYigH1DpNesYdeBsVHX8Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgeoz4qGozmIQOHJkXpGuNo8kZCvsyu1GEVqZuTExiQRcCIQDK5TXWfZDl18aB68tXcCPEt4R8EVbdri0NmFks7djTfw%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="Webcam" tvg-logo="https://www.fotointern.ch/wp-uploads/2013/06/Rheinfall-Fotowettbewerb-Lead.jpg",[COLOR blue] Rheinfall Schafhausen Webcam [/COLOR]
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658179793/ei/cXzVYtH8JJvNgAfwtY2oBQ/ip/92.205.10.243/id/s1IW2y-MmkY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhqPn6zT8MMsnN_dIhlY64AX9OSo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBmgzZ4uDq7gJ9FVmx9h58h7Mqjp5G4AHV_VFcTl0K3ECIBOw6zMA5MnhhS288CkXKO6xDavIAaKxcAif3Z19pqVV/file/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Sky Radio 101 FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/skyradio101fm.png",Sky Radio 101 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
